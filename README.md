@@ -11,7 +11,7 @@
 
 💡 Some wild ideas:
 
-- Exploit heterogeneous computing resource (such as GPU, NPU, DSP, even FPGA $\cdots$) on affordable SoCs to do SLAM.
+- Exploit heterogeneous computing resource (such as GPU, NPU, DSP, even FPGA ...) on affordable SoCs to do SLAM.
 - Intergrate Unreal Engine 5, ROS 2 and sophisticated sensor models as a powerful simulator to boost SLAM R&D.
 - Life-long SLAM based on semantic-topological mapping.
 
