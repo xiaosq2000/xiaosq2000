@@ -1,20 +1,38 @@
+## README
 
+### 👋 Hi there 
 ![](https://raw.githubusercontent.com/xiaosq2000/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/xiaosq2000/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/xiaosq2000/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/xiaosq2000/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-<!--
-**xiaosq2000/xiaosq2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 My Interests
 
-Here are some ideas to get you started:
+🔭 Improve the trilemma of robustness, precision and cost of robotic SLAM solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Some wild ideas:
+
+- Exploit heterogeneous computing resource (such as GPU, NPU, DSP, even FPGA $\cdots$) on affordable SoCs to do SLAM.
+- Intergrate Unreal Engine 5, ROS 2 and sophisticated sensor models as a powerful simulator to boost SLAM R&D.
+- Life-long SLAM based on semantic-topological mapping.
+
+## 🐾 My Repos
+
+🤓 Geeky configurations or dockerized developing environments, always WIP:
+- my dotfiles (to do)
+- ROS++ in docker (to upload)
+- [LaTex in docker](https://github.com/xiaosq2000/latex-docker)
+- [sing-box in docker](https://github.com/xiaosq2000/sing-box-docker)
+
+📚 Notes or slides to share (products of the Feynman Technique):
+- [From Kalman Filter to FEJ-MSCKF] (WIP, to upload)
+- [Quaternion without Tears] (WIP, to upload)
+
+🌱 Archived toys or course projects when doing my bachelor's degree in Automation at HITSZ:
+- [An Underwater SLAM Simulator](https://github.com/xiaosq2000/underwater-slam-simulator) (bachelor's thesis)
+- [A 6-axis manipulator playing Jenga](https://github.com/xiaosq2000/robotics-final-project) (course project of *Introduction to Robotics*)
+- [A vision-based self-parking little vehicle](https://github.com/xiaosq2000/DIP-final-project) (course project of *Digital Image Processing*)
+- [An smart air fan](https://github.com/xiaosq2000/intg_fan) (course project of *Electronics Engineering Training*)
+- [A simple python script to do daily reports during the COVID-19 epidemic](https://github.com/xiaosq2000/HITSZ-Self-Monitor) (self-motivated)
+
+Besides, some closed-source projects I've contributed to are listed in my CV.
