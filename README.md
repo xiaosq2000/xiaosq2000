@@ -24,8 +24,8 @@
 - [sing-box in docker](https://github.com/xiaosq2000/sing-box-docker)
 
 📚 Notes or slides to share (products of the Feynman Technique):
-- [From Kalman Filter to FEJ-MSCKF] (WIP, to upload)
-- [Quaternion without Tears] (WIP, to upload)
+- [From Kalman Filter to FEJ-MSCKF](https://github.com/xiaosq2000/notes/blob/main/kalman_filter/main.pdf) (WIP)
+- [Quaternion without Tears] (WIP)
 
 🌱 Archived toys or course projects when doing my bachelor's degree in Automation at HITSZ:
 - [An Underwater SLAM Simulator](https://github.com/xiaosq2000/underwater-slam-simulator) (bachelor's thesis)
