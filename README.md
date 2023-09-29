@@ -21,7 +21,7 @@
 - [sing-box in docker](https://github.com/xiaosq2000/sing-box-docker)
 
 📚 Notes or slides to share [(repo)](https://github.com/xiaosq2000/notes):
-- Probability and Stochastic Process [(PDF)](https://github.com/xiaosq2000/notes/blob/main/stochastic_process/main.pdf)
+- Measure, Probability and Stochastic Process [(PDF)](https://github.com/xiaosq2000/notes/blob/main/measure_probability_and_stochastic_process/main.pdf)
 - Basics and Variants of Kalman filter [(PDF)](https://github.com/xiaosq2000/notes/blob/main/kalman_filter/main.pdf)
 
 Besides, some closed-source projects I've contributed to are listed in my CV.
