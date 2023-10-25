@@ -26,11 +26,11 @@
 
 Besides, some closed-source projects I've contributed to are listed in my CV.
 
-## 💬 My Interests
-
-🔭 Improve the trilemma of robustness, precision and cost of robotic SLAM solutions.
-
-- Exploit heterogeneous computing resource (GPU, NPU, DSP, etc. ) on affordable SoCs to do SLAM.
-- Intergrate SOTA tools, like Unreal Engine 5, ROS 2 and sophisticated sensor models as a powerful simulation platform to boost SLAM R&D.
-- Life-long SLAM based on semantic-topological mapping.
-- Indoor localization based on Wi-Fi, bluetooth, Li-Fi, etc..
+<!-- ## 💬 My Interests -->
+<!--  -->
+<!-- 🔭 Improve the trilemma of robustness, precision and cost of robotic SLAM solutions. -->
+<!--  -->
+<!-- - Exploit heterogeneous computing resource (GPU, NPU, DSP, etc. ) on affordable SoCs to do SLAM. -->
+<!-- - Intergrate SOTA tools, like Unreal Engine 5, ROS 2 and sophisticated sensor models as a powerful simulation platform to boost SLAM R&D. -->
+<!-- - Life-long SLAM based on semantic-topological mapping. -->
+<!-- - Indoor localization based on Wi-Fi, bluetooth, Li-Fi, etc.. -->
