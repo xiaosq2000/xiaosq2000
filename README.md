@@ -8,16 +8,16 @@
 ## 🐾 My Repos
 
 🌱 Archived toys or course projects when doing my bachelor's degree in Automation at HITSZ:
-- [An Underwater SLAM Simulator](https://github.com/xiaosq2000/underwater-slam-simulator) (bachelor's thesis)
-- [A 6-axis manipulator playing Jenga](https://github.com/xiaosq2000/robotics-final-project) (course project of *Introduction to Robotics*)
-- [A vision-based self-parking vehicle](https://github.com/xiaosq2000/DIP-final-project) (course project of *Digital Image Processing*)
-- [An smart air fan](https://github.com/xiaosq2000/intg_fan) (course project of *Electronics Engineering Training*)
-- [A simple python script to do daily reports during the COVID-19 epidemic](https://github.com/xiaosq2000/HITSZ-Self-Monitor) (self-motivated)
+- [An Underwater SLAM Simulator](https://github.com/xiaosq2000/underwater-slam-simulator)
+- [A 6-axis manipulator playing Jenga](https://github.com/xiaosq2000/robotics-final-project)
+- [A vision-based self-parking vehicle](https://github.com/xiaosq2000/DIP-final-project)
+- [An smart air fan](https://github.com/xiaosq2000/intg_fan)
+- [A simple python script to do daily reports during the COVID-19 epidemic](https://github.com/xiaosq2000/HITSZ-Self-Monitor)
 
 🤓 Geeky configurations or dockerized developing environments, always WIP:
 - [robotics in docker](https://github.com/xiaosq2000/robotics-docker)
 - [LaTex in docker](https://github.com/xiaosq2000/latex-docker)
-- my dotfiles (to do)
+- [dotfiles](https://github.com/xiaosq2000/dotfiles) 
 
 📚 Notes or slides to share [(repo)](https://github.com/xiaosq2000/notes):
 - Measure, Probability and Stochastic Process [(PDF)](https://github.com/xiaosq2000/notes/blob/main/measure_probability_and_stochastic_process/main.pdf)
