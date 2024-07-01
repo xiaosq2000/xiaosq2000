@@ -8,25 +8,26 @@
 ## ✨ My Interests
 
 - Robotics, especially SLAM and Robotic Vision.
-- I am currently working on a neural rendering-based semantic SLAM system.
+<!-- I am currently working on a neural rendering-based semantic SLAM system. -->
 
 ## 🐾 My Repos
 
-🤓 Geeky configurations or dockerized developing environments, always WIP:
+📚 Research notes or slides [(repo)](https://github.com/xiaosq2000/notes):
+- SLAM & 3D Gaussian Splatting [(PDF)](https://github.com/xiaosq2000/notes/blob/main/3dgs_slam/slides/main.pdf)
+- Measure, Probability and Stochastic Process [(PDF)](https://github.com/xiaosq2000/notes/blob/main/measure_probability_and_stochastic_process/main.pdf)
+- Basics and Variants of Kalman filter [(PDF)](https://github.com/xiaosq2000/notes/blob/main/kalman_filter/main.pdf)
+
+🤓 Geeky stuff, always WIP:
 - [robotics in docker](https://github.com/xiaosq2000/robotics-docker)
 - [LaTex in docker](https://github.com/xiaosq2000/latex-docker)
 - [dotfiles](https://github.com/xiaosq2000/dotfiles) 
 
-📚 Notes or slides to share [(repo)](https://github.com/xiaosq2000/notes):
-- Measure, Probability and Stochastic Process [(PDF)](https://github.com/xiaosq2000/notes/blob/main/measure_probability_and_stochastic_process/main.pdf)
-- Basics and Variants of Kalman filter [(PDF)](https://github.com/xiaosq2000/notes/blob/main/kalman_filter/main.pdf)
-
-🌱 Archived toys or course projects when doing my bachelor's degree in Automation at HITSZ:
+🌱 Archived toys in my bachelor years:
 - [An Underwater SLAM Simulator](https://github.com/xiaosq2000/underwater-slam-simulator)
 - [A 6-axis manipulator playing Jenga](https://github.com/xiaosq2000/robotics-final-project)
 - [A vision-based self-parking vehicle](https://github.com/xiaosq2000/DIP-final-project)
 - [An smart air fan](https://github.com/xiaosq2000/intg_fan)
-- [A simple python script to do daily reports during the COVID-19 epidemic](https://github.com/xiaosq2000/HITSZ-Self-Monitor)
+<!-- - [A simple python script to do daily reports during the COVID-19 epidemic](https://github.com/xiaosq2000/HITSZ-Self-Monitor) -->
 
 
 <!-- ## 💬 My Interests -->
