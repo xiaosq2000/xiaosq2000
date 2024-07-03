@@ -13,7 +13,7 @@
 ## 🐾 My Repos
 
 📚 Research notes or slides [(repo)](https://github.com/xiaosq2000/notes):
-- SLAM & 3D Gaussian Splatting [(PDF)](https://github.com/xiaosq2000/notes/blob/main/3dgs_slam/slides/main.pdf)
+- Novel SLAMs: Semantic & Neural Rendering & SLAM [(PDF)](https://github.com/xiaosq2000/notes/blob/main/novel_slam/slides/main.pdf)
 - Measure, Probability and Stochastic Process [(PDF)](https://github.com/xiaosq2000/notes/blob/main/measure_probability_and_stochastic_process/main.pdf)
 - Basics and Variants of Kalman filter [(PDF)](https://github.com/xiaosq2000/notes/blob/main/kalman_filter/main.pdf)
 
