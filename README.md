@@ -12,7 +12,7 @@
 ## 🐾 My Repos
 
 📚 Research notes or slides [(repo)](https://github.com/xiaosq2000/notes):
-- Novel SLAMs: Semantic & Neural Rendering & SLAM [(notes)](https://github.com/xiaosq2000/notes/blob/main/novel_slam/slides/main.article.pdf)
+- Novel SLAMs: Semantic & Neural Rendering & SLAM [(notes)](https://github.com/xiaosq2000/notes/blob/main/novel_slam/contents/main.article.pdf)
 - Measure, Probability and Stochastic Process [(slides)](https://github.com/xiaosq2000/notes/blob/main/measure_probability_and_stochastic_process/main.pdf)
 - Basics and Variants of Kalman filter [(slides)](https://github.com/xiaosq2000/notes/blob/main/kalman_filter/main.pdf)
 
