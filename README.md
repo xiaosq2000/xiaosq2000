@@ -7,29 +7,27 @@
 
 ## ✨ My Interests
 
-- Robotics, especially SLAM and Robotic Vision.
-<!-- I am currently working on a neural rendering-based semantic SLAM system. -->
+- Mobile Robotics, especially SLAM and Robotic Vision.
 
 ## 🐾 My Repos
 
 📚 Research notes or slides [(repo)](https://github.com/xiaosq2000/notes):
-- Novel SLAMs: Semantic & Neural Rendering & SLAM [(PDF)](https://github.com/xiaosq2000/notes/blob/main/novel_slam/slides/main.pdf)
-- Measure, Probability and Stochastic Process [(PDF)](https://github.com/xiaosq2000/notes/blob/main/measure_probability_and_stochastic_process/main.pdf)
-- Basics and Variants of Kalman filter [(PDF)](https://github.com/xiaosq2000/notes/blob/main/kalman_filter/main.pdf)
+- Novel SLAMs: Semantic & Neural Rendering & SLAM [(notes)](https://github.com/xiaosq2000/notes/blob/main/novel_slam/slides/main.article.pdf)
+- Measure, Probability and Stochastic Process [(slides)](https://github.com/xiaosq2000/notes/blob/main/measure_probability_and_stochastic_process/main.pdf)
+- Basics and Variants of Kalman filter [(slides)](https://github.com/xiaosq2000/notes/blob/main/kalman_filter/main.pdf)
 
 🤓 Geeky stuff, always WIP:
+- [dotfiles](https://github.com/xiaosq2000/dotfiles): neovim, tmux, zsh, code snippets...
 - [robotics in docker](https://github.com/xiaosq2000/robotics-docker)
 - [LaTex in docker](https://github.com/xiaosq2000/latex-docker)
-- [dotfiles](https://github.com/xiaosq2000/dotfiles) 
 
 🌱 Archived toys in my bachelor years:
 - [An Underwater SLAM Simulator](https://github.com/xiaosq2000/underwater-slam-simulator)
 - [A 6-axis manipulator playing Jenga](https://github.com/xiaosq2000/robotics-final-project)
 - [A vision-based self-parking vehicle](https://github.com/xiaosq2000/DIP-final-project)
 - [An smart air fan](https://github.com/xiaosq2000/intg_fan)
+
 <!-- - [A simple python script to do daily reports during the COVID-19 epidemic](https://github.com/xiaosq2000/HITSZ-Self-Monitor) -->
-
-
 <!-- ## 💬 My Interests -->
 <!--  -->
 <!-- 🔭 Improve the trilemma of robustness, precision and cost of robotic SLAM solutions. -->
